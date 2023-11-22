@@ -3,7 +3,8 @@
 ## :a:	对比相关作品或产品并进行分析
 
 ### :one: >>>>>  **GER MOOD SWEATER**
-![屏幕截图 2023-11-22 161252](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4a868dfa-a065-45a5-b92d-477e1b980fb1)
+
+![屏幕截图 2023-11-22 161252](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/c790e14a-2ef8-4386-9d25-f06fce11d2f3)
 
 :small_blue_diamond: ***Core Function*** :
 
