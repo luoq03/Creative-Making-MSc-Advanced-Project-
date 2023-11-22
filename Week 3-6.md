@@ -104,7 +104,8 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![82f69fb29a874a3832aab570724159c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b6e6f195-c0b7-4a95-aa1d-db2d56121c93)
 
-https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/afc5be18-a4bd-471f-995f-cff9382033a0
+![bb042589d11d4ef0fdd6469ce375dc1](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/204569ff-ef16-45bf-8fe7-7ccde72da8c1)
+
 
 
 
