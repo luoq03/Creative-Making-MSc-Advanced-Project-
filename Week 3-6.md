@@ -90,8 +90,11 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ## :pushpin: :wrench: Model structure experiment 3️⃣ version (quadrilateral). :eyes:
 
+![35b6c1419f0b2cd5efb7cc9080edc4c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e4152e4b-1e49-46e0-8c53-55c248129eb1)
 
+![b52a6f3b127c0729b4438b3831f40fa](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d8f4eb54-f97a-47d3-808e-62200a7f8e4e)
 
+![62e8a9978181982d2e78785bbbd1d06](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ce85c6d9-9a53-4bc2-be56-0b3197541cb7)
 
 
 
