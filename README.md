@@ -84,9 +84,9 @@ Advantage: By visualizing internal states through color, it externalizes and com
 
 Market Performance:This product may find opportunities in the domains of emotional expression, personalized communication, and human-computer interaction, attracting users interested in emotional technology and personalized experiences.
 
-##### :o: Summary：
+##### :o::o::o:Summary：
 
-:small_orange_diamond:	Integrating sensors into flexible and wearable materials to enable interaction with users' bodies and physiological responses.
+:small_orange_diamond: Integrating sensors into flexible and wearable materials to enable interaction with users' bodies and physiological responses.
 
 :small_orange_diamond:	Utilizing bioresponsive design and animation effects to enhance user experience and emotional perception through inflation, light variations, and other means.
 
