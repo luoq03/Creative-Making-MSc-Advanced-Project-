@@ -1,6 +1,6 @@
-# 第1周-2周：项目准备和研究- Week1 项目启动
+# Week 1-2: Project Preparation and Research - Week 1: Project Initiation
 
-## :a:	对比相关作品或产品并进行分析
+## :a:	Compare relevant works or products and conduct an analysis
 
 ### :one: >>>>>  **GER MOOD SWEATER**
 
