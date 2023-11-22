@@ -86,13 +86,13 @@ Market Performance:This product may find opportunities in the domains of emotion
 
 ##### :o: Summary：
 
-	Integrating sensors into flexible and wearable materials to enable interaction with users' bodies and physiological responses.
+:small_orange_diamond:	Integrating sensors into flexible and wearable materials to enable interaction with users' bodies and physiological responses.
 
-	Utilizing bioresponsive design and animation effects to enhance user experience and emotional perception through inflation, light variations, and other means.
+:small_orange_diamond:	Utilizing bioresponsive design and animation effects to enhance user experience and emotional perception through inflation, light variations, and other means.
 
-	Using sensors to capture physiological indicators and externalizing and displaying internal states through visualization, light, color, and other methods.
+:small_orange_diamond:	Using sensors to capture physiological indicators and externalizing and displaying internal states through visualization, light, color, and other methods.
 
-	Employing bioresponsive sensors and electronic technology to create new forms of emotional communication, fostering interpersonal communication and emotional resonance.
+:small_orange_diamond:	Employing bioresponsive sensors and electronic technology to create new forms of emotional communication, fostering interpersonal communication and emotional resonance.
 
 #### •	确定项目目标群体和范围
 
