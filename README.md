@@ -1,12 +1,10 @@
-# SentiMap-项目周记
+# 第1周-2周：项目准备和研究
 
-## 第1周-2周：项目准备和研究
+# Week 1项目启动
 
-### Week 1项目启动
+## •	对比相关作品或产品并进行分析
 
-#### •	对比相关作品或产品并进行分析
-
-##### :one: >>>>> GER MOOD SWEATER
+### :one: >>>>> GER MOOD SWEATER
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/08cc11f7-9de0-4a51-93f3-b43132a565a7)
 
 :small_blue_diamond: Core Function: A soft sensor based on Galvanic Skin Response (GSR) that reads electrodermal activity to showcase the user's internal excitement levels. The sensor is located on the hands and translates the data into a palette of affective colors.
@@ -16,7 +14,7 @@
 :small_blue_diamond: Market Performance: This product may have potential in the field of emotional expression and personalized communication, attracting consumers interested in self-expression and emotional resonance.
 
 
-##### 2️⃣ >>>>> AWE FLEXO
+### 2️⃣ >>>>> AWE FLEXO
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4743d5fb-a30b-47ee-ab87-96a38ebb165d)
 
 :small_blue_diamond: Core Function: A flexible exoskeleton for therapeutic use, designed to enhance the sensation of awe and wonder. The hexagon grid on the back amplifies the psychological manifestation of awe as super-powered goosebumps.
@@ -26,7 +24,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the realms of entertainment, emotional experiences, and personal development, appealing to users seeking stimulating experiences and emotional resonance.
 
 
-##### 3️⃣ >>>>> FLEXO
+### 3️⃣ >>>>> FLEXO
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a5da6928-9136-46bb-ae96-9107069d5d77)
 
 :small_blue_diamond: Core Function: A flexible exoskeleton for therapeutic touch, serving as a bioresponsive garment that communicates healing touch between caregivers and patients.
@@ -36,7 +34,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the healthcare and rehabilitation fields, offering a new form of interaction for patients and caregivers who require therapeutic touch.
 
 
-##### 4️⃣ >>>>> NANOGAMI
+### 4️⃣ >>>>> NANOGAMI
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a798e02a-0253-4079-877b-ba8ef1166107)
 
 :small_blue_diamond: Core Function: A bioresponsive garment illustrating the importance of the microbiome on collective wellbeing.The inflatable dichromic origami fabric expands to maintain microbiome homeostasis.
@@ -46,7 +44,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the realms of health awareness and ecological consciousness, appealing to users interested in microbiome health and collective wellbeing.
 
 
-##### 5️⃣ >>>>> AWELECTRIC
+### 5️⃣ >>>>> AWELECTRIC
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a32a35ea-8ca8-417e-87dd-0a0d7516325a)
 
 :small_blue_diamond: Core Function: A bioresponsive design that exhibits the feeling of awe through externalized intimacy. It employs biosensors to monitor the sensation of awe and animates it through 3D-printed goosebump fabric that inflates and flickers.
@@ -56,7 +54,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the domains of emotional experiences, entertainment, and personal development, attracting users seeking unique experiences and emotional resonance.
 
 
-##### 6️⃣ >>>>> AWE GOOSEBUMPS
+### 6️⃣ >>>>> AWE GOOSEBUMPS
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/58ff4581-bef2-4f7b-8c42-e0befd23d4fb)
 
 :small_blue_diamond: Core Function: An inflatable wearable that enhances and re-patterns the feeling of awe and goosebumps, animated by biosensors. Breathing patterns are visually represented, and silicone pockets inflate to initiate a peekaboo interaction and illuminate a pink glowing blush.
@@ -66,7 +64,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the realms of emotional experiences and personal development, attracting users interested in emotional resonance and personal growth.
 
 
-##### 7️⃣ >>>>> GOOSEBUMP POOF
+### 7️⃣ >>>>> GOOSEBUMP POOF
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/855cfafc-c662-4666-a564-41e761c2859a)
 
 :small_blue_diamond: Core Function:An inflatable wearable that animates memory-activated goosebumps. The fused recycled plastic fabric responds to evoked memories, with spikes standing on end when memories are intense. 
@@ -75,7 +73,7 @@
 
 :small_blue_diamond: Market Performance:This product may find opportunities in the domains of emotional experiences, memory enhancement, and personal mementos, appealing to users interested in enhancing their memories and emotional connections.
 
-##### 8️⃣ >>>>> NEUROTIQ
+### 8️⃣ >>>>> NEUROTIQ
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/5fcf17b5-a49a-4ce7-bd78-6c6458a307d9)
 
 :small_blue_diamond: Core Function:Brain-animating fashion with a knitted, 3D-printed EEG brain sensor that maps thoughts and exhibits brain states with color. The fiber optic knitted structure embeds 3D-printed neuron globules containing therapeutic biomedia.
@@ -84,7 +82,7 @@
 
 :small_blue_diamond: Market Performance:This product may find opportunities in the domains of emotional expression, personalized communication, and human-computer interaction, attracting users interested in emotional technology and personalized experiences.
 
-#####  Summary：
+###  Summary：
 
 :o: :o: :o:
 
