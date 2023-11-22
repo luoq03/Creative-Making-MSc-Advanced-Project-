@@ -1,6 +1,4 @@
-# 第1周-2周：项目准备和研究
-
-# Week 1项目启动
+# 第1周-2周：项目准备和研究- Week1 项目启动
 
 ## •	对比相关作品或产品并进行分析
 
@@ -14,6 +12,7 @@
 :small_blue_diamond: Market Performance: This product may have potential in the field of emotional expression and personalized communication, attracting consumers interested in self-expression and emotional resonance.
 
 
+
 ### 2️⃣ >>>>> AWE FLEXO
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4743d5fb-a30b-47ee-ab87-96a38ebb165d)
 
@@ -22,6 +21,7 @@
 :small_blue_diamond: Advantage: By externally showcasing breathing rates and inflating pockets to enhance the sensation of awe, it allows for shared experiences and externalization of internal sensations.
 
 :small_blue_diamond: Market Performance: This product may find opportunities in the realms of entertainment, emotional experiences, and personal development, appealing to users seeking stimulating experiences and emotional resonance.
+
 
 
 ### 3️⃣ >>>>> FLEXO
@@ -34,6 +34,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the healthcare and rehabilitation fields, offering a new form of interaction for patients and caregivers who require therapeutic touch.
 
 
+
 ### 4️⃣ >>>>> NANOGAMI
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a798e02a-0253-4079-877b-ba8ef1166107)
 
@@ -42,6 +43,7 @@
 :small_blue_diamond: Advantage: By monitoring the microbiome and visually representing it through inflatable fabric, it raises awareness about the impact and balance of microbiomes on health.
 
 :small_blue_diamond: Market Performance: This product may find opportunities in the realms of health awareness and ecological consciousness, appealing to users interested in microbiome health and collective wellbeing.
+
 
 
 ### 5️⃣ >>>>> AWELECTRIC
@@ -54,6 +56,7 @@
 :small_blue_diamond: Market Performance: This product may find opportunities in the domains of emotional experiences, entertainment, and personal development, attracting users seeking unique experiences and emotional resonance.
 
 
+
 ### 6️⃣ >>>>> AWE GOOSEBUMPS
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/58ff4581-bef2-4f7b-8c42-e0befd23d4fb)
 
@@ -62,6 +65,7 @@
 :small_blue_diamond: Advantage: By visually and physically representing the thrill of awe and goosebumps, it intensifies the user's experience and externalizes their internal states.
 
 :small_blue_diamond: Market Performance: This product may find opportunities in the realms of emotional experiences and personal development, attracting users interested in emotional resonance and personal growth.
+
 
 
 ### 7️⃣ >>>>> GOOSEBUMP POOF
@@ -73,6 +77,8 @@
 
 :small_blue_diamond: Market Performance:This product may find opportunities in the domains of emotional experiences, memory enhancement, and personal mementos, appealing to users interested in enhancing their memories and emotional connections.
 
+
+
 ### 8️⃣ >>>>> NEUROTIQ
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/5fcf17b5-a49a-4ce7-bd78-6c6458a307d9)
 
@@ -81,6 +87,8 @@
 :small_blue_diamond:Advantage: By visualizing internal states through color, it externalizes and communicates the user's thoughts and brain states.
 
 :small_blue_diamond: Market Performance:This product may find opportunities in the domains of emotional expression, personalized communication, and human-computer interaction, attracting users interested in emotional technology and personalized experiences.
+
+
 
 ###  Summary：
 
