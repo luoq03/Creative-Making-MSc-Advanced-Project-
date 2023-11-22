@@ -196,7 +196,7 @@ This product may find opportunities in the domains of emotional expression, pers
 
 ## 🅱️:	Define Target Audience
 
-###  Primary User Profiles：
+### :o: Primary User Profiles：
 
 :small_blue_diamond: ***1. Expressers and Emotion Explorers*** :pushpin:
 
@@ -210,7 +210,7 @@ Caregivers and Treatment Recipients: These users are healthcare professionals or
 
 Health Conscious Individuals: These users are interested in personal health, ecological health, and microbiome health. They aim to enhance their awareness of health conditions through wearable devices and maintain a balance between their bodies and the environment.
 
-###  Key User Needs and Pain Points：
+### :o: Key User Needs and Pain Points：
 
 :small_blue_diamond: ***1. Expression and Resonance*** :pushpin:
 
@@ -228,7 +228,7 @@ Physical Touch and Therapeutic Effects: Healthcare users desire wearable devices
 
 Health Awareness and Ecological Balance: Health-conscious users want wearable devices that enhance their understanding of personal health, ecological health, and microbiome health, and help them maintain a balance between their bodies and the environment.
 
-###  User Habits and Preferences：
+### :o: User Habits and Preferences：
 
 :small_blue_diamond: ***1.Highly Personalized Experiences*** :pushpin:
 
