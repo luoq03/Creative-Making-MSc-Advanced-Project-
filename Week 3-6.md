@@ -43,6 +43,8 @@
 :link: link：https://www.etsy.com/uk/?ref=lgo
 
 ## :pushpin: :wrench: Model structure experiment first version (quadrilateral).
+![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/42675db2-5396-4995-bda0-e3be39c28cf4)
+![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/5defba97-e7ea-45b8-bb23-9e8712fcc47a)
 
 
 
