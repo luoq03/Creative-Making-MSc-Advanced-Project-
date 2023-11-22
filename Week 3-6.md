@@ -96,6 +96,8 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![62e8a9978181982d2e78785bbbd1d06](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ce85c6d9-9a53-4bc2-be56-0b3197541cb7)
 
+![屏幕截图 2023-11-22 225457](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab9086b0-801a-4a52-bd64-45c115cd2b7a)
+
 ![82f69fb29a874a3832aab570724159c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b6e6f195-c0b7-4a95-aa1d-db2d56121c93)
 
 
