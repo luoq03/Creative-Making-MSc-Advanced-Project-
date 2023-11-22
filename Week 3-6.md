@@ -42,7 +42,7 @@
 
 :link: link：https://www.etsy.com/uk/?ref=lgo
 
-## :pushpin: :wrench: Model structure experiment first version (quadrilateral). :eyes:
+## :pushpin: :wrench: Model structure experiment :one: version (quadrilateral). :eyes:
 
 ![屏幕截图 2023-11-22 215801](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/6c2b778a-5422-4e2d-99e3-336e88d494e5)
 
@@ -50,7 +50,7 @@ The first version of the model, I attempted to create a movable quadrilateral st
 
 For the subsequent second version of the model, I aim to maintain the basic form of the quadrilateral structure while incorporating the localized influence from the emotion map. Additionally, I will explore the use of 3D printing techniques for fabric materials to achieve better control and wearing experience.
 
-
+## :pushpin: :wrench: Model structure experiment :two: version (quadrilateral). :eyes:
 
 
 
