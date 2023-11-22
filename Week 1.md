@@ -246,9 +246,9 @@ Comfort and Wearability: Users highly value the comfort and ease of use of weara
  
 3. In your daily life, what emotions and inner states do you consider most important and in need of expression?
  
- 4.Would you like to showcase your emotions and inner feelings to others through wearable devices? Why or why not?
+4. Would you like to showcase your emotions and inner feelings to others through wearable devices? Why or why not?
  
- 5.In which scenarios or activities do you believe interactive clothing devices would provide more emotional experiences and satisfaction?
+5. In which scenarios or activities do you believe interactive clothing devices would provide more emotional experiences and satisfaction?
  
 6. When it comes to the design of interactive clothing devices, do you prefer simplicity and style or uniqueness and personalization?
  
