@@ -32,7 +32,11 @@ This product may have potential in the field of emotional expression and persona
 
 :small_blue_diamond: ***How it works :*** 
 
-AWE FLeXo is a flexible exoskeleton for therapeutic use (flexo) for increasing the healthy sensation of awe and wonder. The hexagon grid on the back of the design amplifies the psychological manifestation of awe in the form of super powered goosebumps. The Awe Flexo further explores the inflatable forms and structures of the AWE Goosebumps design. Breathing rates are showcased externally with illuminated blue inhales and green exhales. When the wearer feels awe the pockets inflate pink to enhance the sensation and share it with others for extimacy – exhibiting internal sensations for communication.
+AWE FLeXo is a flexible exoskeleton designed for therapeutic purposes, with the goal of enhancing the profound emotions of awe and wonder. The exoskeleton, referred to as "flexo," incorporates a hexagonal grid on its back that serves to amplify the psychological experience of awe, often characterized by the sensation of goosebumps. This design element essentially transforms the perception of awe into a tangible, super-powered manifestation.
+
+AWE FLeXo also delves into the exploration of inflatable structures, building upon the concepts initially introduced in the AWE Goosebumps design. The wearer's breathing patterns are visually represented externally through the use of illuminated blue LEDs during inhalation and green LEDs during exhalation.
+
+When the wearer experiences a sense of awe, specific pockets within the exoskeleton inflate and emit a pink glow. This inflation not only enhances the wearer's own experience of awe but also serves as a means of externalizing and sharing their internal sensations. This fosters a form of "extimacy," allowing the wearer to communicate their inner emotional state with others, thereby promoting a deeper connection and understanding of their feelings.
 
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4743d5fb-a30b-47ee-ab87-96a38ebb165d)
 
