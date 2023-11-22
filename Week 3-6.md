@@ -108,11 +108,9 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ## :pushpin: :wrench: Model structure experiment 4️⃣ version (Hexagonal with Emotion map). :eyes:
 
-![未标题-1_画板 1](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e5fabfd1-8ba6-4ca1-98d6-37a68980e64a)
-
 ![屏幕截图 2023-11-22 234220](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2980d816-b9d8-4d47-90a9-2b78b4a26caf)
 
-
+![屏幕截图 2023-11-22 234708](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2965e458-1782-4544-816c-fd16fd7f9bb5)
 
 
 
