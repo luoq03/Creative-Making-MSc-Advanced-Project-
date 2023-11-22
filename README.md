@@ -1,6 +1,4 @@
-# Creative-Making-MSc-Advanced-Project-
-
-项目周记
+# Creative-Making-MSc-Advanced-Project-项目周记
 
 第1周-2周：项目准备和研究
 
