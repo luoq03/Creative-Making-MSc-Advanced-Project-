@@ -36,12 +36,6 @@
 
 :link: link：https://parametrichouse.com/3d-printed-fabric/
 
-## Fabric material website:
-
-// ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d26dcb91-3004-49cb-95b1-03c2a140a402)
-
-:link: link：https://www.etsy.com/uk/?ref=lgo
-
 ## :smile: :sob: :fearful: Emotion map :eyes:
 
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e2d22c94-087a-4cf2-a603-85cc942a1a9c)
