@@ -4,7 +4,7 @@
 
 ### :one: >>>>>  **GER MOOD SWEATER**
 
-![屏幕截图 2023-11-22 161252](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/c790e14a-2ef8-4386-9d25-f06fce11d2f3)
+![屏幕截图 2023-11-22 161252](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f98e8b2f-bd62-4eaa-a89c-17906d736139)
 
 :small_blue_diamond: ***Core Function*** :
 
