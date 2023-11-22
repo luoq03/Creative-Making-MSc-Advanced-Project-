@@ -54,8 +54,7 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![屏幕截图 2023-11-22 221234](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/03e3abe3-dfb2-4382-bc2a-ac89df72f20f)
 
-![屏幕截图 2023-11-22 222136](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/05ce9e0b-933f-4049-9b87-8b8a473e6e80)
-![屏幕截图 2023-11-22 222153](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f2948157-3f6e-4327-beab-677d846fde8d)
+![屏幕截图 2023-11-22 222310](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7542fa9c-7e3f-433a-bbef-2b725b731004)
 
 
 
