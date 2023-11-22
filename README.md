@@ -8,11 +8,14 @@
 
 ##### :one: GER MOOD SWEATER
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/08cc11f7-9de0-4a51-93f3-b43132a565a7)
+
 Core Function: A soft sensor based on Galvanic Skin Response (GSR) that reads electrodermal activity to showcase the user's internal excitement levels. The sensor is located on the hands and translates the data into a palette of affective colors.
 
 Advantage: It promotes externalized intimacy by visually expressing the user's internal emotions, allowing for a unique form of self-expression and communication.
 
 Market Performance: This product may have potential in the field of emotional expression and personalized communication, attracting consumers interested in self-expression and emotional resonance.
+
+##### 2️⃣ GER MOOD SWEATER
 
 #### •	确定项目目标群体和范围
 
