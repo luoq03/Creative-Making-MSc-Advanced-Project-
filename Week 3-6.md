@@ -92,9 +92,15 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![35b6c1419f0b2cd5efb7cc9080edc4c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e4152e4b-1e49-46e0-8c53-55c248129eb1)
 
-![b52a6f3b127c0729b4438b3831f40fa](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d8f4eb54-f97a-47d3-808e-62200a7f8e4e)
+![屏幕截图 2023-11-22 225703](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/881b6c73-ac23-4aaf-9b22-41fbdf55992c)
 
-![62e8a9978181982d2e78785bbbd1d06](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ce85c6d9-9a53-4bc2-be56-0b3197541cb7)
+![屏幕截图 2023-11-22 225823](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7435b583-87fa-40fa-afeb-d1885ac0317e)
+
+![屏幕截图 2023-11-22 225920](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/60d6aebb-6efc-422e-9b8c-7cb74e45be41)
+
+![屏幕截图 2023-11-22 230003](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/20db00a2-1d7a-4f31-b9b9-21659dfa6ab1)
+
+![屏幕截图 2023-11-22 230039](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2be90798-e300-4a42-8b16-4f88facffce9)
 
 ![屏幕截图 2023-11-22 225457](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab9086b0-801a-4a52-bd64-45c115cd2b7a)
 
