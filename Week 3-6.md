@@ -38,7 +38,7 @@
 
 ## Fabric material website:
 
-![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d26dcb91-3004-49cb-95b1-03c2a140a402)
+// ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d26dcb91-3004-49cb-95b1-03c2a140a402)
 
 :link: link：https://www.etsy.com/uk/?ref=lgo
 
@@ -52,12 +52,9 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ## :pushpin: :wrench: Model structure experiment :two: version (quadrilateral). :eyes:
 
+![屏幕截图 2023-11-22 221234](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/03e3abe3-dfb2-4382-bc2a-ac89df72f20f)
 
-
-
-
-
-
+![89cfa1709ee62294ba4b76faa8697ba](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/452fa752-d4b1-4889-adc0-b525a92b0f97)
 
 
 
