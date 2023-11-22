@@ -1,6 +1,6 @@
 # 第1周-2周：项目准备和研究- Week1 项目启动
 
-## •	对比相关作品或产品并进行分析
+## :a:	对比相关作品或产品并进行分析
 
 ### :one: >>>>> GER MOOD SWEATER
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/08cc11f7-9de0-4a51-93f3-b43132a565a7)
