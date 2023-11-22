@@ -212,7 +212,7 @@ Health Conscious Individuals: These users are interested in personal health, eco
 
 ###  Key User Needs and Pain Points：
 
-:small_blue_diamond: ***1. Expression and Resonance *** :pushpin:
+:small_blue_diamond: ***1. Expression and Resonance*** :pushpin:
 
 Expression and Resonance: Users want wearable devices that allow them to express their emotions and inner feelings intuitively, establishing emotional resonance and connection with others.
 
