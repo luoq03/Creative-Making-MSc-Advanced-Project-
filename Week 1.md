@@ -230,11 +230,11 @@ Health Awareness and Ecological Balance: Health-conscious users want wearable de
 
 ###  User Habits and Preferences：
 
-:small_blue_diamond: ***1.Highly Personalized Experiences  *** :pushpin:
+:small_blue_diamond: ***1.Highly Personalized Experiences*** :pushpin:
 
 Highly Personalized Experiences: Users may expect highly personalized and individualized emotional experiences through wearable devices to meet their unique emotional needs.
 
-:small_blue_diamond: ***2. Comfort and Wearability *** :pushpin:
+:small_blue_diamond: ***2. Comfort and Wearability*** :pushpin:
 
 Comfort and Wearability: Users highly value the comfort and ease of use of wearable devices.
 
