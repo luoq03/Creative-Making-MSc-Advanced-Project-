@@ -48,31 +48,33 @@
 
 Simplified diagram of emotional influence on different body parts, later usable for activity zones in wearable devices.
 
-Anger: Head, chest, arms
+:small_orange_diamond: Anger: Head, chest, arms
 
-Fear: Chest
+:small_orange_diamond: Fear: Chest
 
-Disgust: Head
+:small_orange_diamond: Disgust: Head
 
-Happiness: Head, chest, arms, abdomen, legs
+:small_orange_diamond: Happiness: Head, chest, arms, abdomen, legs
 
-Sadness: Chest, legs（low）
+:small_orange_diamond: Sadness: Chest, legs（low）
 
-Surprise: Head, chest, legs
+:small_orange_diamond: Surprise: Head, chest, legs
 
-Anxiety: Chest, legs（high）
+:small_orange_diamond: Anxiety: Chest, legs（high）
 
-Love: Head, chest, abdomen
+:small_orange_diamond: Love: Head, chest, abdomen
 
-Gloominess: Arms, legs
+:small_orange_diamond: Gloominess: Arms, legs
 
-Contempt: Head, abdomen
+:small_orange_diamond: Contempt: Head, abdomen
 
-Pride: Head, chest（high）
+:small_orange_diamond: Pride: Head, chest（high）
 
-Shyness: Head, chest, abdomen, legs
+:small_orange_diamond: Shyness: Head, chest, abdomen, legs
 
-Jealousy: Head, chest（low）
+:small_orange_diamond: Jealousy: Head, chest（low）
+
+
 
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ff68c606-bd43-4956-bb50-fa9d028e758a)
 
