@@ -8,8 +8,8 @@
 
 ## 🅱️: Deformation structure survey
 
-Triangle structure：
-:link: link：https://www.bilibili.com/video/BV1ot411M7z1/?vd_source=dd482c0174bbbd054250c58fbdb90c9e
+Triangle structure：:link: link：https://www.bilibili.com/video/BV1ot411M7z1/?vd_source=dd482c0174bbbd054250c58fbdb90c9e
+
 Quadrilateral structure：
 
 Hexagonal structure：
