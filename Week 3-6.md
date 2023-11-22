@@ -84,13 +84,13 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ## :pushpin: :wrench: Model structure experiment :two: version (quadrilateral). :eyes:
 
-![屏幕截图 2023-11-22 221234](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/03e3abe3-dfb2-4382-bc2a-ac89df72f20f)
-
 ![屏幕截图 2023-11-22 222310](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7542fa9c-7e3f-433a-bbef-2b725b731004)
 
 ## :pushpin: :wrench: Model structure experiment 3️⃣ version (quadrilateral). :eyes:
 
 ![35b6c1419f0b2cd5efb7cc9080edc4c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e4152e4b-1e49-46e0-8c53-55c248129eb1)
+
+![屏幕截图 2023-11-22 225457](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab9086b0-801a-4a52-bd64-45c115cd2b7a)
 
 ![屏幕截图 2023-11-22 225703](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/881b6c73-ac23-4aaf-9b22-41fbdf55992c)
 
@@ -101,8 +101,6 @@ For the subsequent second version of the model, I aim to maintain the basic form
 ![屏幕截图 2023-11-22 230003](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/20db00a2-1d7a-4f31-b9b9-21659dfa6ab1)
 
 ![屏幕截图 2023-11-22 230039](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2be90798-e300-4a42-8b16-4f88facffce9)
-
-![屏幕截图 2023-11-22 225457](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab9086b0-801a-4a52-bd64-45c115cd2b7a)
 
 ![82f69fb29a874a3832aab570724159c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b6e6f195-c0b7-4a95-aa1d-db2d56121c93)
 
