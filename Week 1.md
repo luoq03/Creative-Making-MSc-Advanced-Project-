@@ -209,3 +209,51 @@ Caregivers and Treatment Recipients: These users are healthcare professionals or
 :small_blue_diamond: ***3. Health Conscious Individuals***
 
 Health Conscious Individuals: These users are interested in personal health, ecological health, and microbiome health. They aim to enhance their awareness of health conditions through wearable devices and maintain a balance between their bodies and the environment.
+
+###  Key User Needs and Pain Points：
+
+:small_blue_diamond: ***1. Expression and Resonance *** :pushpin:
+
+Expression and Resonance: Users want wearable devices that allow them to express their emotions and inner feelings intuitively, establishing emotional resonance and connection with others.
+
+:small_blue_diamond: ***2. Stimulating Experiences and Exploration*** :pushpin:
+
+Stimulating Experiences and Exploration: Users pursue novel, surprising, and exciting experiences and seek device functionalities and effects that enhance their emotional perception and experiences.
+
+:small_blue_diamond: ***3. Physical Touch and Therapeutic Effects*** 
+
+Physical Touch and Therapeutic Effects: Healthcare users desire wearable devices that can simulate therapeutic touch or convey emotions and energy to enhance treatment effectiveness and overall well-being.
+
+:small_blue_diamond: ***4. Health Awareness and Ecological Balance*** 
+
+Health Awareness and Ecological Balance: Health-conscious users want wearable devices that enhance their understanding of personal health, ecological health, and microbiome health, and help them maintain a balance between their bodies and the environment.
+
+###  User Habits and Preferences：
+
+:small_blue_diamond: ***1.Highly Personalized Experiences  *** :pushpin:
+
+Highly Personalized Experiences: Users may expect highly personalized and individualized emotional experiences through wearable devices to meet their unique emotional needs.
+
+:small_blue_diamond: ***2. Comfort and Wearability *** :pushpin:
+
+Comfort and Wearability: Users highly value the comfort and ease of use of wearable devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
