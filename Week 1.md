@@ -192,8 +192,18 @@ This product may find opportunities in the domains of emotional expression, pers
 
 :small_orange_diamond:	Employing bioresponsive sensors and electronic technology to create new forms of emotional communication, fostering interpersonal communication and emotional resonance.
 
-## 🅱️:	确定项目目标群体和范围
+## 🅱️:	Define Target Audience
 
+###  Primary User Profiles：
 
+:small_blue_diamond: 1.Expressers and Emotion Explorers :pushpin:
 
+Expressers and Emotion Explorers: These users desire to express their emotional states through wearable devices and seek stimulating experiences to explore and enhance their emotions.
 
+:small_blue_diamond: 2.Caregivers and Treatment Recipients
+
+Caregivers and Treatment Recipients: These users are healthcare professionals or patients who seek a device that can simulate physical touch or convey emotions and energy to enhance treatment effectiveness and mental well-being.
+
+:small_blue_diamond: 3.Health Conscious Individuals
+
+Health Conscious Individuals: These users are interested in personal health, ecological health, and microbiome health. They aim to enhance their awareness of health conditions through wearable devices and maintain a balance between their bodies and the environment.
