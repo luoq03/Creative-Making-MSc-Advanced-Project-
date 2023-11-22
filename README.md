@@ -4,7 +4,7 @@
 
 ### :one: >>>>>  **GER MOOD SWEATER**
 
-:small_blue_diamond: ***How it works:***
+:small_blue_diamond: ***How it works: ***
 The Galvanic Extimacy Responder (GER) is our soft sensor based on the GSR – Galvanic Skin Response which reads electrodermal activity. This sensor has been used in classic lie detector tests to show excitement levels. SENSOREEs GER sensor promotes extimacy – externalized intimacy by showcasing how you feel on the inside to the outside world. The sensors are located on the hands and reads excitement levels then translates the data into a palette of affective colors. The Mood Sweater design of the bowl shaped, high collar is positioned with LED lights that reflects onto the self for instant biofeedback as well as act as a tele-display or external blush to communicate to the other. Located around the neck (larynx), the visual interface offers new language of light and color.
 
 ![屏幕截图 2023-11-22 162033](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ed383605-64ff-4d89-8465-6f0ce14d1195)
