@@ -42,6 +42,8 @@
 
 :link: link：https://www.etsy.com/uk/?ref=lgo
 
+## :smile: :sob: :fearful: Emotion map :eyes:
+
 ## :pushpin: :wrench: Model structure experiment :one: version (quadrilateral). :eyes:
 
 ![屏幕截图 2023-11-22 215801](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/6c2b778a-5422-4e2d-99e3-336e88d494e5)
@@ -56,7 +58,7 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![屏幕截图 2023-11-22 222310](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7542fa9c-7e3f-433a-bbef-2b725b731004)
 
-
+## :pushpin: :wrench: Model structure experiment 3️⃣ version (quadrilateral). :eyes:
 
 
 
