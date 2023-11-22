@@ -84,7 +84,9 @@
 
 :small_blue_diamond: Market Performance:This product may find opportunities in the domains of emotional expression, personalized communication, and human-computer interaction, attracting users interested in emotional technology and personalized experiences.
 
-##### :o: :o: :o: Summary：
+#####  Summary：
+
+:o: :o: :o:
 
 :small_orange_diamond: Integrating sensors into flexible and wearable materials to enable interaction with users' bodies and physiological responses.
 
