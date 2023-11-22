@@ -1,7 +1,5 @@
 # Week 1-2: Project Preparation and Research 
 
-# Week 1: Project Initiation
-
 ## :a:	Compare relevant works or products and conduct an analysis
 
 ### :one: >>>>>  **GER MOOD SWEATER**
