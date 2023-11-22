@@ -6,7 +6,11 @@
 
 :small_blue_diamond: ***How it works :***  
 
-The Galvanic Extimacy Responder (GER) is our soft sensor based on the GSR – Galvanic Skin Response which reads electrodermal activity. This sensor has been used in classic lie detector tests to show excitement levels. SENSOREEs GER sensor promotes extimacy – externalized intimacy by showcasing how you feel on the inside to the outside world. The sensors are located on the hands and reads excitement levels then translates the data into a palette of affective colors. The Mood Sweater design of the bowl shaped, high collar is positioned with LED lights that reflects onto the self for instant biofeedback as well as act as a tele-display or external blush to communicate to the other. Located around the neck (larynx), the visual interface offers new language of light and color.
+The Galvanic Extimacy Responder (GER) is a soft sensor that relies on Galvanic Skin Response (GSR) to measure electrodermal activity. GSR has traditionally been employed in conventional lie detector tests to gauge the levels of excitement or arousal. SENSOREE's GER sensor is designed to facilitate "extimacy," which involves externalizing one's inner emotional state to the outside world.
+
+These sensors are strategically positioned on the hands to detect and measure excitement levels. Subsequently, the collected data is translated into a spectrum of affective colors. The Mood Sweater, characterized by its bowl-shaped, high collar, incorporates LED lights that are positioned to illuminate the wearer's own body, providing instant biofeedback. Additionally, they serve as a tele-display or an external indicator of emotional states, communicating with others in a unique way.
+
+Located around the neck, specifically near the larynx, this visual interface introduces a novel language of light and color to convey an individual's emotional state.
 
 ![屏幕截图 2023-11-22 162033](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ed383605-64ff-4d89-8465-6f0ce14d1195)
 
