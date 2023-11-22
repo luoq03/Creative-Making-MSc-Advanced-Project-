@@ -44,6 +44,40 @@
 
 ## :smile: :sob: :fearful: Emotion map :eyes:
 
+![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e2d22c94-087a-4cf2-a603-85cc942a1a9c)
+
+Simplified diagram of emotional influence on different body parts, later usable for activity zones in wearable devices.
+
+Anger: Head, chest, arms
+
+Fear: Chest
+
+Disgust: Head
+
+Happiness: Head, chest, arms, abdomen, legs
+
+Sadness: Chest, legs（low）
+
+Surprise: Head, chest, legs
+
+Anxiety: Chest, legs（high）
+
+Love: Head, chest, abdomen
+
+Gloominess: Arms, legs
+
+Contempt: Head, abdomen
+
+Pride: Head, chest（high）
+
+Shyness: Head, chest, abdomen, legs
+
+Jealousy: Head, chest（low）
+
+![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ff68c606-bd43-4956-bb50-fa9d028e758a)
+
+Head, Chest, Arms x2, Legs x2
+
 ## :pushpin: :wrench: Model structure experiment :one: version (quadrilateral). :eyes:
 
 ![屏幕截图 2023-11-22 215801](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/6c2b778a-5422-4e2d-99e3-336e88d494e5)
