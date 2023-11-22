@@ -9,6 +9,7 @@
 ## 🅱️: Deformation structure survey
 
 Triangle structure：:link: link：https://www.bilibili.com/video/BV1ot411M7z1/?vd_source=dd482c0174bbbd054250c58fbdb90c9e
+![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b22403f2-6f86-4070-9091-f9f404c34676)
 
 Quadrilateral structure：
 
