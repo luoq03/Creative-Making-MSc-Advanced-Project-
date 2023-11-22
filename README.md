@@ -25,6 +25,11 @@ This product may have potential in the field of emotional expression and persona
 
 
 ### 2️⃣ >>>>> **AWE FLEXO**
+
+:small_blue_diamond: ***How it works :*** 
+
+AWE FLeXo is a flexible exoskeleton for therapeutic use (flexo) for increasing the healthy sensation of awe and wonder. The hexagon grid on the back of the design amplifies the psychological manifestation of awe in the form of super powered goosebumps. The Awe Flexo further explores the inflatable forms and structures of the AWE Goosebumps design. Breathing rates are showcased externally with illuminated blue inhales and green exhales. When the wearer feels awe the pockets inflate pink to enhance the sensation and share it with others for extimacy – exhibiting internal sensations for communication.
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4743d5fb-a30b-47ee-ab87-96a38ebb165d)
 
 :small_blue_diamond: ***Core Function*** : 
@@ -42,6 +47,10 @@ This product may find opportunities in the realms of entertainment, emotional ex
 
 
 ### 3️⃣ >>>>> **FLEXO**
+
+:small_blue_diamond: ***How it works :*** 
+
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a5da6928-9136-46bb-ae96-9107069d5d77)
 
 :small_blue_diamond: ***Core Function*** : 
@@ -59,6 +68,10 @@ This product may find opportunities in the healthcare and rehabilitation fields,
 
 
 ### 4️⃣ >>>>> **NANOGAMI**
+
+:small_blue_diamond: ***How it works :*** 
+
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a798e02a-0253-4079-877b-ba8ef1166107)
 
 :small_blue_diamond: ***Core Function*** : 
@@ -76,6 +89,10 @@ This product may find opportunities in the realms of health awareness and ecolog
 
 
 ### 5️⃣ >>>>> **AWELECTRIC**
+
+:small_blue_diamond: ***How it works :*** 
+
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a32a35ea-8ca8-417e-87dd-0a0d7516325a)
 
 :small_blue_diamond: ***Core Function*** : 
@@ -93,6 +110,10 @@ This product may find opportunities in the domains of emotional experiences, ent
 
 
 ### 6️⃣ >>>>> **AWE GOOSEBUMPS**
+
+:small_blue_diamond: ***How it works :*** 
+
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/58ff4581-bef2-4f7b-8c42-e0befd23d4fb)
 
 :small_blue_diamond: ***Core Function*** : 
@@ -110,6 +131,10 @@ This product may find opportunities in the realms of emotional experiences and p
 
 
 ### 7️⃣ >>>>> **GOOSEBUMP POOF**
+
+:small_blue_diamond: ***How it works :*** 
+
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/855cfafc-c662-4666-a564-41e761c2859a)
 
 :small_blue_diamond: ***Core Function*** : 
@@ -127,6 +152,10 @@ This product may find opportunities in the domains of emotional experiences, mem
 
 
 ### 8️⃣ >>>>> **NEUROTIQ**
+
+:small_blue_diamond: ***How it works :*** 
+
+
 ![image](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/5fcf17b5-a49a-4ce7-bd78-6c6458a307d9)
 
 :small_blue_diamond: ***Core Function*** : 
