@@ -238,9 +238,29 @@ Highly Personalized Experiences: Users may expect highly personalized and indivi
 
 Comfort and Wearability: Users highly value the comfort and ease of use of wearable devices.
 
+##  :lips:	User Interview Questionnaire :pencil2:
 
+1. Please introduce yourself. Your name, age, profession, and experience related to wearable devices and emotion expression.
+ 
+2. Have you ever used interactive clothing devices before? If yes, please share your experience. If not, are you interested in using them?
+ 
+3. In your daily life, what emotions and inner states do you consider most important and in need of expression?
+ 
+ 4.Would you like to showcase your emotions and inner feelings to others through wearable devices? Why or why not?
+ 
+ 5.In which scenarios or activities do you believe interactive clothing devices would provide more emotional experiences and satisfaction?
+ 
+6. When it comes to the design of interactive clothing devices, do you prefer simplicity and style or uniqueness and personalization?
+ 
+7. What requirements do you have for the comfort and usability of wearable devices? How do you envision these devices fitting into your daily life and activities?
 
+8. What features do you think wearable devices should have to enhance emotional experiences and expression?
 
+9. Are you interested in features and characteristics related to personal health? Why or why not?
+
+10. What are your expectations for personalized interactive clothing devices? What aspects would you like to customize?
+
+11. Please provide any additional ideas, opinions, or suggestions you have regarding interactive clothing devices.
 
 
 
