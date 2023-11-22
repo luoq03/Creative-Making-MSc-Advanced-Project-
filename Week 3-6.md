@@ -82,11 +82,11 @@ The first version of the model, I attempted to create a movable quadrilateral st
 
 For the subsequent second version of the model, I aim to maintain the basic form of the quadrilateral structure while incorporating the localized influence from the emotion map. Additionally, I will explore the use of 3D printing techniques for fabric materials to achieve better control and wearing experience.
 
-## :pushpin: :wrench: Model structure experiment :two: version (quadrilateral). :eyes:
+## :pushpin: :wrench: Model structure experiment :two: version (Hexagonal). :eyes:
 
 ![屏幕截图 2023-11-22 222310](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7542fa9c-7e3f-433a-bbef-2b725b731004)
 
-## :pushpin: :wrench: Model structure experiment 3️⃣ version (quadrilateral). :eyes:
+## :pushpin: :wrench: Model structure experiment 3️⃣ version (Hexagonal). :eyes:
 
 ![35b6c1419f0b2cd5efb7cc9080edc4c](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e4152e4b-1e49-46e0-8c53-55c248129eb1)
 
@@ -106,7 +106,7 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![bb042589d11d4ef0fdd6469ce375dc1](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/204569ff-ef16-45bf-8fe7-7ccde72da8c1)
 
-
+## :pushpin: :wrench: Model structure experiment 3️⃣ version (Hexagonal with Emotion map). :eyes:
 
 
 
