@@ -56,6 +56,7 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![89cfa1709ee62294ba4b76faa8697ba](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/452fa752-d4b1-4889-adc0-b525a92b0f97)
 
+![3f65a6b2b1061ca2ad87b4e584805e3](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/25e92932-dcec-41d2-a416-1bd92b52d057)
 
 
 
