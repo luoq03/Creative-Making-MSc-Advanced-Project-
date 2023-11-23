@@ -301,6 +301,9 @@ model_reload.fc = nn.Linear(num_ftrs, num_classes)
 # model_reload.to('cpu')
 model_reload.load_state_dict(torch.load(save_path,map_location=torch.device('cpu')))
 ```
+
+## 情绪识别
+
 ```ruby
 # 图像预处理
 # ori = image.copy()
@@ -332,12 +335,54 @@ def predict(image):
     return label_name,str(pred_score)  # 返回预测结果和处理后的图像
 ```
 
+## 连接openCV并显示情绪标签
+
+```ruby
+
+# 使用OpenCV捕获摄像头视频
+cap = cv2.VideoCapture(0)
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        print("Error: failed to capture image")
+        break
+
+    # 将BGR图像转换为RGB，然后应用预处理
+    rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+    image = pred_transform(rgb_frame).unsqueeze(0)  # 添加批处理维度
+    #img_tensor = transform(rgb_frame)
+    #img_tensor = img_tensor.unsqueeze(0)  # 添加批次维度
+    label_name,pred_score =  predict(image)
 
 
 
+    # 在帧上显示预测结果
+    cv2.putText(frame, label_name, (20, 20), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)
+    # print ("label_name >",label_name)
+    ser.write(label_name.encode('utf-8'))
+    #comdata=label_name+'0'
+    #ser.write(comdata.encode('utf-8'))
+    #num=num+1
+    #if num==10:
+     #   comdata=label_name+'0'
+     #   num=0
+     #   ser.write(comdata.encode('utf-8'))
+        # ser.flushOutput()  # 清空发送缓存
+    time.sleep(0.1)
+    # 显示帧
+    cv2.imshow('frame', frame)
 
+    # if cv2.waitKey(1) & 0xFF == ord('q'):
+    #     break
 
+    if cv2.waitKey(1)  == 27:
+        break
+# 释放摄像头资源
+cap.release()
+cv2.destroyAllWindows()
 
+```
 
 
 
