@@ -228,6 +228,75 @@ predict_pro_array[:5],predict_array[:5],label_array[:5]
 
 ![屏幕截图 2023-11-23 120925](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bad4f2e2-ec4f-4e72-8161-ad5cf66c6f2d)
 
+## 在训练情绪模型的过程中，我也尝试了另外两组模型----cnn模型和模型 swin_transformer
+
+### cnn模型 
+
+```ruby
+class CNN(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.conv1 = nn.Conv2d(3, 6, 3)
+        self.pool = nn.MaxPool2d(2, 2)
+        self.conv2 = nn.Conv2d(6, 16, 3)
+        self.conv3 = nn.Conv2d(16, 32, 3)
+        self.conv4 = nn.Conv2d(32, 32, 3)
+        self.fc1 = nn.Linear(4608, 120)
+        self.fc2 = nn.Linear(120, 84)
+        self.fc3 = nn.Linear(84, num_classes)
+    def forward(self, x):
+        x = self.pool(F.relu(self.conv1(x)))
+        x = self.pool(F.relu(self.conv2(x)))
+        x = self.pool(F.relu(self.conv3(x)))
+        x = self.pool(F.relu(self.conv4(x)))
+        x = torch.flatten(x, 1) # flatten all dimensions except batch
+        x = F.relu(self.fc1(x))
+        x = F.relu(self.fc2(x))
+        x = self.fc3(x)
+        return x
+
+cnn_model = CNN().to(device)
+
+cnn_model(b_img.to(device)).shape
+
+```
+
+```ruby
+%%time
+epochs = 60
+train_loss_list = []
+train_acc_list = []
+test_loss_list = []
+test_acc_list = []
+for t in range(epochs):
+    print(f"Epoch {t+1}\n-------------------------------")
+    train(train_dl, cnn_model, loss_fn, optimizer)
+
+    train_loss, train_correct = test(train_dl, cnn_model, loss_fn)
+    test_loss, test_correct = test(test_dl, cnn_model, loss_fn)
+    train_loss_list.append(train_loss)
+    train_acc_list.append(train_correct)
+    test_loss_list.append(test_loss)
+    test_acc_list.append(test_correct)
+print("Done!")
+
+```
+
+![屏幕截图 2023-11-23 130911](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f3db3131-4600-4752-8719-a2bf0dd4744d)
+
+![屏幕截图 2023-11-23 131055](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/488f2ae9-bf1e-4ae6-8abb-3911068644f6)
+
+![屏幕截图 2023-11-23 131142](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/dc18922f-7742-421c-ac40-e9a637d1aa98)
+
+![屏幕截图 2023-11-23 131153](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/47a315df-4d89-43f9-8dac-900519eef663)
+
+![屏幕截图 2023-11-23 131202](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/1785ed74-26c3-4932-abfa-0d1ccd4de955)
+
+
+
+
+
+
 # 情感识别算法设计和实现-与openCV结合
 
 ## 导入python包
