@@ -228,13 +228,17 @@ predict_pro_array[:5],predict_array[:5],label_array[:5]
 
 ![屏幕截图 2023-11-23 120627](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/04c948de-0ec1-4533-bc19-9b8983bd682c)
 
+#### 分类报告
 
+![屏幕截图 2023-11-23 120805](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/830818f5-02e2-4861-aa12-82883c42eed6)
 
+#### 混淆矩阵
 
+![屏幕截图 2023-11-23 120851](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d2dc6521-1b41-41bb-a811-151a17134b8a)
 
+![屏幕截图 2023-11-23 120912](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/14f1422e-432e-4cb5-9d8a-103d0c73ede9)
 
-
-
+![屏幕截图 2023-11-23 120925](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bad4f2e2-ec4f-4e72-8161-ad5cf66c6f2d)
 
 
 
