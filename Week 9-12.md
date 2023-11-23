@@ -226,6 +226,7 @@ predict_pro_array[:5],predict_array[:5],label_array[:5]
 
 ```
 
+![屏幕截图 2023-11-23 120627](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/04c948de-0ec1-4533-bc19-9b8983bd682c)
 
 
 
