@@ -19,10 +19,10 @@ Servo servo_10; # Define a servo object for servo connected to pin 10
 
 
 void setup() {
-  servo_4.attach(4); //Attach servo_4 to pin 4
-  servo_5.attach(5); //Attach servo_5 to pin 5
-  servo_6.attach(6); //Attach servo_6 to pin 6
-  servo_8.attach(8);  //Attach servo_8 to pin 8
+  servo_4.attach(4); # Attach servo_4 to pin 4
+  servo_5.attach(5); # Attach servo_5 to pin 5
+  servo_6.attach(6); # Attach servo_6 to pin 6
+  servo_8.attach(8);  / Attach servo_8 to pin 8
   servo_9.attach(9);  //Attach servo_9 to pin 9
   servo_10.attach(10); //Attach servo_10 to pin 10
 
