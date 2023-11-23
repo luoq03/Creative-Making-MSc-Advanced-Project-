@@ -474,6 +474,7 @@ cv2.destroyAllWindows()
 
 ```
 
+## 结果展示
 ![屏幕截图 2023-11-23 135740](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/21d0c018-e6a9-4f43-b385-be34888c3f24)
 
 ![屏幕截图 2023-11-23 135656](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/6c360f58-19e3-422c-941c-09ec7ad7438e)
