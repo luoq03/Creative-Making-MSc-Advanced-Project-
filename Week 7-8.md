@@ -10,7 +10,7 @@
 
 ```ruby
 #include <Servo.h>
-Servo servo_4; //Define a servo object for servo connected to pin 4
+Servo servo_4; #Define a servo object for servo connected to pin 4
 Servo servo_5; //Define a servo object for servo connected to pin 5
 Servo servo_6; //Define a servo object for servo connected to pin 6
 Servo servo_8; //Define a servo object for servo connected to pin 8
