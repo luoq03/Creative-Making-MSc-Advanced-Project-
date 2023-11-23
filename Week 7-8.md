@@ -8,7 +8,7 @@
 
 ## 与模型结合的充气变形测试
 
-```
+```ruby
 #include <Servo.h>
 Servo servo_4;
 Servo servo_5;
