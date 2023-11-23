@@ -14,9 +14,9 @@ https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/
 
 参考模特身形画出具体需要的尺寸
 
-![Uploading f8d7f23dee19596305bc269703ee1a4.jpg…]()
+![f8d7f23dee19596305bc269703ee1a4](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/e9adc17e-cc64-4294-9ce5-43b5800d3650)
 
-![Uploading fc53f5888aba720923e9656153a4ddc.jpg…]()
+![fc53f5888aba720923e9656153a4ddc](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/1ee86fef-3d8d-427d-815e-346e59bf309b)
 
 将道具服与3D打印模型简单固定
 
