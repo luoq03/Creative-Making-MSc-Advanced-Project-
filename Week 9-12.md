@@ -159,6 +159,7 @@ optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
 ## 训练和评估
 
 ```ruby
+
 %%time
 epochs = 60
 train_loss_list = []
