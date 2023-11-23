@@ -1,5 +1,6 @@
 # 邀请一小组用户测试可穿戴设备
 
+![屏幕截图 2023-11-23 153456](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/91175a34-baeb-4078-96af-4f55b163e945)
 
 ![屏幕截图 2023-11-23 153123](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bc230106-95af-4292-8cd6-b4164b16fa9a)
 
