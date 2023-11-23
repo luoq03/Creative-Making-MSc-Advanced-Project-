@@ -18,7 +18,45 @@
 
 ![屏幕截图 2023-11-23 024341](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/92058745-7074-4623-8119-4c29d032fa83)
 
+## 从kaggle下载数据集
 
+```ruby
+!cp /content/drive/MyDrive/kaggle.json /content/
+```
+
+```ruby
+
+!mkdir -p ~/.kaggle
+
+!cp kaggle.json ~/.kaggle/
+
+!chmod 600 ~/.kaggle/kaggle.json
+
+```
+
+```ruby
+
+!kaggle datasets download -d jonathanoheix/face-expression-recognition-dataset
+
+```
+
+```ruby
+
+!unzip /content/face-expression-recognition-dataset.zip
+
+```
+
+```ruby
+
+```
+
+```ruby
+
+```
+
+```ruby
+
+```
 ## 筛选训练模型
 
 ## 开始训练模型
