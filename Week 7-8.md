@@ -18,6 +18,15 @@ https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/
 
 ![fc53f5888aba720923e9656153a4ddc](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/1ee86fef-3d8d-427d-815e-346e59bf309b)
 
+打印最终3D模型
+![屏幕截图 2023-11-23 001042](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/86fa494b-5bea-4fd2-95f2-d196ec870777)
+
+![屏幕截图 2023-11-23 001052](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f21fcfbc-f366-4a24-9ee7-29f9d4ea0a97)
+
+![屏幕截图 2023-11-23 001103](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/c2d4a472-608c-4ac8-93c1-97db8bbe416e)
+
+![屏幕截图 2023-11-23 001115](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d15c4422-19a4-4d80-946c-ca4a37563c41)
+
 将道具服与3D打印模型简单固定
 
 ![屏幕截图 2023-11-23 001456](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/84dc2338-2a8c-4f53-be13-06a5913ec50a)
