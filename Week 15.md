@@ -1,13 +1,15 @@
 # 邀请一小组用户测试可穿戴设备
 
-![屏幕截图 2023-11-23 151807](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/6c0b66be-a9ba-4697-9fe5-7ac4570516a0)
+
+![屏幕截图 2023-11-23 153123](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bc230106-95af-4292-8cd6-b4164b16fa9a)
 
 ![屏幕截图 2023-11-23 152058](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/17d0d12d-a340-4b50-9d28-5def9be50a8f)
 
+![屏幕截图 2023-11-23 152401](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7e312b25-d5a6-4e71-b473-333955cb3e6e)
+
 ![屏幕截图 2023-11-23 152209](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/dcc355cb-a7da-4c18-a376-c879eaef0ee0)
 
-
-
+![屏幕截图 2023-11-23 152605](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a2523a06-19d1-4561-a711-45c848135d6e)
 
 
 
