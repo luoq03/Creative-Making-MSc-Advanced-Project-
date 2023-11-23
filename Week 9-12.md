@@ -149,14 +149,14 @@ def test(dataloader, model, loss_fn):
 
 ![屏幕截图 2023-11-23 114704](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/af0910e4-caf0-404f-9006-d248b1f188ea)
 
-## 分配损失函数和优化器
+### 分配损失函数和优化器
 
 ```ruby
 loss_fn = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
 ```
 
-## 训练和评估
+### 训练和评估
 
 ![屏幕截图 2023-11-23 120124](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7773236e-27f2-4e4d-a7f0-94d4673f5b80)
 
@@ -174,7 +174,7 @@ optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
 
 ![屏幕截图 2023-11-23 115453](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb415886-4792-4024-adb3-026f598fc1a5)
 
-## 可视化训练过程
+### 可视化训练过程
 
 ```ruby
 # train_loss_array,train_acc_array,val_loss_array,val_acc_array
@@ -198,9 +198,33 @@ plt.show()
 ```
 ![屏幕截图 2023-11-23 115926](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab3ddb06-8d4b-4544-ab3d-a7aafecec5bc)
 
+### 模型验证集预测
 
+```ruby
 
+predict_list = []
+label_list = []
+predict_pro_list = []
+m_softmax = nn.Softmax(dim=1)
+for (img_rgb, y) in test_dl:
+    img_rgb = img_rgb.to(device)
+    y = y.to(device)
 
+    predict_score = base_model_resnet18(img_rgb)
+    predict_pro = m_softmax(predict_score)
+
+    predict_label = np.argmax(predict_score.detach().cpu().numpy(),axis=1)
+
+    predict_pro_list.append(predict_pro.detach().cpu().numpy())
+    predict_list.append(predict_label)
+    label_list.append(y.detach().cpu().numpy())
+
+predict_pro_array = np.vstack(predict_pro_list)[:,1]
+predict_array = np.hstack(predict_list)
+label_array = np.hstack(label_list)
+predict_pro_array[:5],predict_array[:5],label_array[:5]
+
+```
 
 
 
