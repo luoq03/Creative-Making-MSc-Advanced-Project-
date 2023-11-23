@@ -114,4 +114,5 @@ Refer to the model's body shape to draw the specific required dimensions
 
 ![屏幕截图 2023-11-23 014304](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/96c35f78-7df3-4a20-993b-339955519335)
 
-![屏幕截图 2023-11-23 150856](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cefa2cee-290e-4373-812e-27c908445706)
+![屏幕截图 2023-11-23 150856](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4801359a-b186-4cc4-ba7f-d6d2acbc9690)
+
