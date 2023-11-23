@@ -141,28 +141,55 @@ def test(dataloader, model, loss_fn):
     return test_loss, correct
 ```
 
-## 开始训练模型
+## 模型 resnet18
 
-## 结果测试
+### 确定数据输入shape
 
+![屏幕截图 2023-11-23 114614](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b62aaea8-c49a-464e-b5fb-6accc6bc2d72)
 
+![屏幕截图 2023-11-23 114704](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/af0910e4-caf0-404f-9006-d248b1f188ea)
 
+## 分配损失函数和优化器
 
+```ruby
+loss_fn = nn.CrossEntropyLoss()
+optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
+```
 
+## 训练和评估
 
+```ruby
+%%time
+epochs = 60
+train_loss_list = []
+train_acc_list = []
+test_loss_list = []
+test_acc_list = []
+for t in range(epochs):
+    print(f"Epoch {t+1}\n-------------------------------")
+    train(train_dl, base_model_resnet18, loss_fn, optimizer)
+    train_loss, train_correct = test(train_dl, base_model_resnet18, loss_fn)
+    test_loss, test_correct = test(test_dl, base_model_resnet18, loss_fn)
+    train_loss_list.append(train_loss)
+    train_acc_list.append(train_correct)
+    test_loss_list.append(test_loss)
+    test_acc_list.append(test_correct)
+print("Done!")
+```
 
+![屏幕截图 2023-11-23 115214](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/5ccf5093-f445-490b-88f6-82f65b3ecbf4)
 
+![屏幕截图 2023-11-23 115257](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d6720123-b91d-409e-9b2b-eb8f36a78bee)
 
+![屏幕截图 2023-11-23 115325](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/fda11258-5e61-49f2-b4d7-a98c09ecc635)
 
+![屏幕截图 2023-11-23 115344](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/47e8a179-071a-47bd-893f-b15b945102a3)
 
+![屏幕截图 2023-11-23 115406](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2b2b1e78-d40d-4f50-9dc2-a6218dbd0444)
 
+![屏幕截图 2023-11-23 115429](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ddbf620b-f89e-48fd-9ad4-3eeee952ce33)
 
-
-
-
-
-
-
+![屏幕截图 2023-11-23 115453](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb415886-4792-4024-adb3-026f598fc1a5)
 
 
 
