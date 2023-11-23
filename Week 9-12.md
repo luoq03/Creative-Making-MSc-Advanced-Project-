@@ -158,25 +158,7 @@ optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
 
 ## 训练和评估
 
-```ruby
-
-%%time
-epochs = 60
-train_loss_list = []
-train_acc_list = []
-test_loss_list = []
-test_acc_list = []
-for t in range(epochs):
-    print(f"Epoch {t+1}\n-------------------------------")
-    train(train_dl, base_model_resnet18, loss_fn, optimizer)
-    train_loss, train_correct = test(train_dl, base_model_resnet18, loss_fn)
-    test_loss, test_correct = test(test_dl, base_model_resnet18, loss_fn)
-    train_loss_list.append(train_loss)
-    train_acc_list.append(train_correct)
-    test_loss_list.append(test_loss)
-    test_acc_list.append(test_correct)
-print("Done!")
-```
+![屏幕截图 2023-11-23 120124](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7773236e-27f2-4e4d-a7f0-94d4673f5b80)
 
 ![屏幕截图 2023-11-23 115214](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/5ccf5093-f445-490b-88f6-82f65b3ecbf4)
 
