@@ -239,20 +239,98 @@ predict_pro_array[:5],predict_array[:5],label_array[:5]
 
 ![屏幕截图 2023-11-23 120925](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bad4f2e2-ec4f-4e72-8161-ad5cf66c6f2d)
 
+# 情感识别算法设计和实现-与openCV结合
+
+## 导入python包
+
+```ruby
+import torch
+import cv2
+from torchvision import models, transforms
+import serial
+import serial.tools.list_ports
+import time
+import math
+
+```
+
+```ruby
+import torch
+import torchvision.models as models
+import torchvision.transforms as transforms
+from PIL import Image
+from torch import nn
+import numpy as np
+
+```
+
+## 导入之前训练好的模型，导入标签，设置串口与Arduino通信
+
+```ruby
+ser = serial.Serial('/dev/cu.usbserial-144140', 115200,timeout=1)
+num=0 
+label_name_list = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+save_path = "resnet18v1.pth"
+num_classes = len(label_name_list)
+img_width = 224
+
+# 定义一个预测函数
+# 加载预训练的 ResNet-18 模型
+model_reload = models.resnet18(pretrained=True)
+num_ftrs = model_reload.fc.in_features
+model_reload.fc = nn.Linear(num_ftrs, num_classes)
+# model_reload.to('cpu')
+model_reload.load_state_dict(torch.load(save_path,map_location=torch.device('cpu')))
+```
+
+![屏幕截图 2023-11-23 122928](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/85b5ba5d-6bf4-4809-8e7e-dca41b43f0c2)
+
+```ruby
+ser = serial.Serial('/dev/cu.usbserial-144140', 115200,timeout=1)
+num=0 
+label_name_list = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+save_path = "resnet18v1.pth"
+num_classes = len(label_name_list)
+img_width = 224
+
+# 定义一个预测函数
+# 加载预训练的 ResNet-18 模型
+model_reload = models.resnet18(pretrained=True)
+num_ftrs = model_reload.fc.in_features
+model_reload.fc = nn.Linear(num_ftrs, num_classes)
+# model_reload.to('cpu')
+model_reload.load_state_dict(torch.load(save_path,map_location=torch.device('cpu')))
+```
+```ruby
+# 图像预处理
+# ori = image.copy()
+pred_transform = transforms.Compose([
+                    transforms.ToPILImage(),
+                    transforms.Resize((img_width,img_width)),
+                    transforms.ToTensor(),
+                    transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+                    ])
 
 
 
+# 定义一个预测函数
+def predict(image):
 
+    model_reload.eval()
+    # 进行预测
+    with torch.no_grad():
+        outputs = model_reload(image)
+        _, preds = torch.max(outputs, 1)
+        # 计算预测概率
+        pred_score_list = nn.functional.softmax(outputs[0], dim=0).cpu().numpy()
+        # 获取最大值
+        pred_score = np.max(pred_score_list)
 
-
-
-
-
-
-
-
-
-
+    # 预测最可能的类别
+    predicted_idx = str(preds[0].item())
+    label_name = label_name_list[preds[0].item()]
+    return label_name,str(pred_score)  # 返回预测结果和处理后的图像
+```
 
 
 
