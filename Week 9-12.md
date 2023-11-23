@@ -293,9 +293,41 @@ print("Done!")
 ![屏幕截图 2023-11-23 131202](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/1785ed74-26c3-4932-abfa-0d1ccd4de955)
 
 
+### 模型 swin_transformer
 
+#### 构建基础模型
 
+![屏幕截图 2023-11-23 133916](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/3298c118-4826-40fe-9635-df4c5f580b71)
 
+#### 分配损失函数和优化器
+
+```ruby
+loss_fn = nn.CrossEntropyLoss()
+optimizer = torch.optim.SGD(base_model_swin.parameters(), lr=1e-3)
+```
+#### 训练和评估
+
+![屏幕截图 2023-11-23 134216](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2396acaf-72df-4f0a-aad7-f75d40decdb6)
+
+![屏幕截图 2023-11-23 134252](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f07d8f17-047c-42b5-b2c2-d0b36ad5b72c)
+
+#### 可视化训练过程
+
+![屏幕截图 2023-11-23 134348](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/dcfeb7e4-dc9f-46e8-bb2e-21019b277ff3)
+
+![屏幕截图 2023-11-23 134422](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f70a5f3c-2e7c-4333-96a5-45b3299dce01)
+
+#### 模型验证集预测
+
+![屏幕截图 2023-11-23 134816](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb55bb67-abe5-48d9-9e64-9a082e990d84)
+
+![屏幕截图 2023-11-23 134902](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/1e6c1c9e-8316-4264-a078-1aaf3bb9dc3e)
+
+![屏幕截图 2023-11-23 134932](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/14ada370-7e4d-4369-8f08-5ecd35069522)
+
+![屏幕截图 2023-11-23 134947](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/596dda98-0918-4231-945c-df6e708d4167)
+
+![屏幕截图 2023-11-23 134959](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/efc681db-9a18-46e0-a596-fd36b7bf0446)
 
 # 情感识别算法设计和实现-与openCV结合
 
