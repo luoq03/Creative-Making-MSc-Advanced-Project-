@@ -3,6 +3,8 @@
 
 ![屏幕截图 2023-11-23 024006](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bce88adc-40b6-46f4-a3e9-65a4890f0329)
 
+![屏幕截图 2023-11-23 024108](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/627ee4f0-7f48-4bbd-8760-28b0b12f7a91)
+
 ## 从kaggle下载数据集
 
 ```ruby
