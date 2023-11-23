@@ -12,10 +12,7 @@
 
 ![屏幕截图 2023-11-23 152605](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/a2523a06-19d1-4561-a711-45c848135d6e)
 
-![屏幕截图 2023-11-23 154121](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b335fa39-190d-4f6b-a0fa-0fb5d8218956)
-
-
-
+![屏幕截图 2023-11-23 154307](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/0f95e829-f3d3-4fd8-9dd3-04cf509be176)
 
 
 
