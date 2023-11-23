@@ -113,3 +113,5 @@ Refer to the model's body shape to draw the specific required dimensions
 ## Finally, sew the 3D printed model onto the costume.
 
 ![屏幕截图 2023-11-23 014304](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/96c35f78-7df3-4a20-993b-339955519335)
+
+![屏幕截图 2023-11-23 150856](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cefa2cee-290e-4373-812e-27c908445706)
