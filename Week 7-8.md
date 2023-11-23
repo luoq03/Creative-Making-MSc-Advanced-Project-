@@ -12,6 +12,12 @@ https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/
 
 ## 最终装置制作-硬件部分
 
+参考模特身形画出具体需要的尺寸
+
+![Uploading f8d7f23dee19596305bc269703ee1a4.jpg…]()
+
+![Uploading fc53f5888aba720923e9656153a4ddc.jpg…]()
+
 将道具服与3D打印模型简单固定
 
 ![屏幕截图 2023-11-23 001456](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/84dc2338-2a8c-4f53-be13-06a5913ec50a)
