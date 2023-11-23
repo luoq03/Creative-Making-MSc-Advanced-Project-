@@ -8,6 +8,8 @@
 
 ## 与模型结合的充气变形测试
 
+用4，5，6，8，9，10号引脚控制两组气泵进行交替充气和放气，记录3D模型在气球挤压下发生形变的过程
+
 ```ruby
 #include <Servo.h>
 Servo servo_4; # Define a servo object for servo connected to pin 4
