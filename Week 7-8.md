@@ -8,5 +8,6 @@
 
 ## 与模型结合的充气变形测试
 
-https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/4be4083b-3950-45ea-a3cc-2af7a49e44c1
+https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f71f6524-bf53-4927-9fd4-573f5afd9f6a
+
 
