@@ -191,12 +191,29 @@ print("Done!")
 
 ![屏幕截图 2023-11-23 115453](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb415886-4792-4024-adb3-026f598fc1a5)
 
+## 可视化训练过程
 
-
-
-
-
-
+```ruby
+# train_loss_array,train_acc_array,val_loss_array,val_acc_array
+acc = train_acc_list
+val_acc = test_acc_list
+loss = train_loss_list
+val_loss = test_loss_list
+epochs_range = range(epochs)
+plt.figure(figsize=(8, 8))
+plt.subplot(1, 2, 1)
+plt.plot(epochs_range, acc, label='Training Accuracy')
+plt.plot(epochs_range, val_acc, label='Validation Accuracy')
+plt.legend(loc='lower right')
+plt.title('Training and Validation Accuracy')
+plt.subplot(1, 2, 2)
+plt.plot(epochs_range, loss, label='Training Loss')
+plt.plot(epochs_range, val_loss, label='Validation Loss')
+plt.legend(loc='upper right')
+plt.title('Training and Validation Loss')
+plt.show()
+```
+![屏幕截图 2023-11-23 115926](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab3ddb06-8d4b-4544-ab3d-a7aafecec5bc)
 
 
 
