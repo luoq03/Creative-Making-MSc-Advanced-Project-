@@ -120,13 +120,9 @@ For the subsequent second version of the model, I aim to maintain the basic form
 
 ![屏幕截图 2023-11-23 001115](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb487af4-a477-4213-8083-3ed9dfbba510)
 
-![c99c595e177d48f1526ef53486ad39e](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d87f32b5-0e85-40ac-a930-61ba734372ba)
+![屏幕截图 2023-11-23 001456](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/9347191e-5ced-4f47-aac3-f20ee21221b8)
 
-
-
-
-
-
+![屏幕截图 2023-11-23 001545](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/3755f2a6-9f58-4b9b-bc24-490a59c0e9d5)
 
 
 
