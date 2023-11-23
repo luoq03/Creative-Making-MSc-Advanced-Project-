@@ -1,9 +1,9 @@
 # Week 7-8: Hardware fabrication.
 
-![屏幕截图 2023-11-23 143955](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ef59ff95-2649-4827-9a51-553e00ad69d9)
 
 ## Deformation Kinematics Analysis - Inflatable Deformation
 
+![屏幕截图 2023-11-23 143955](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ef59ff95-2649-4827-9a51-553e00ad69d9)
 
 ## Inflatable Deformation Testing Integrated with the Model
 
