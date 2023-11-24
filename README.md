@@ -1,4 +1,8 @@
 # SENTIMAP
+## VIDEO LINK：
+### SHOW SENTIMAP VIDEO LINK ：https://youtu.be/tPW67JkLj8I
+### SENTIMAP VIDEO LINK：https://youtu.be/NGJrM6X5rRM
+
 
 ![屏幕截图 2023-11-24 202404](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d28cff2c-f3bd-4576-a100-0eab206cb33f)
 ![屏幕截图 2023-11-24 202335](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2434f02b-9128-4090-bbbf-d2275a17da4e)
