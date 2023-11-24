@@ -1,13 +1,13 @@
-# 情感识别算法设计和实现-训练情绪识别模型
-## 选定数据集
+# Design and Implementation of Emotion Recognition Algorithm - Training Emotion Recognition Model
+## Selecting a Dataset
 
 ![屏幕截图 2023-11-23 144303](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/3c413051-4e99-479b-83f0-ee615627af83)
 
 
-### 数据集内图像样本-以angry为例
+### Image Samples in the Dataset - Using 'Angry' as an Example
 ![屏幕截图 2023-11-23 024108](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/627ee4f0-7f48-4bbd-8760-28b0b12f7a91)
 
-## 从kaggle下载数据集
+## Download the Dataset from Kaggle
 
 ```ruby
 !cp /content/drive/MyDrive/kaggle.json /content/
@@ -34,7 +34,7 @@
 !unzip /content/face-expression-recognition-dataset.zip
 
 ```
-## 导入python包
+## Import Python Packages
 
 ```ruby
 import torch
@@ -54,7 +54,7 @@ import time
 import copy
 ```
 
-## 超参数设置
+## Setting Hyperparameters
 
 ```ruby
 batch_size = 16
@@ -64,9 +64,9 @@ img_width= 224
 img_height= 224
 ```
 
-## 数据预处理pipline
+## Data Preprocessing Pipeline
 
-### 准备dataset
+### Preparing the Dataset
 
 ```ruby
 train_dir = '/content/images/train'
@@ -74,7 +74,7 @@ test_dir = '/content/images/validation'
 ```
 ![屏幕截图 2023-11-23 112101](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f001b2b7-a610-4e44-a472-d1ae96dbcf39)
 
-### 准备dataloader
+### Preparing the dataloader
 ```ruby
 train_dl = torch.utils.data.DataLoader(train_ds, batch_size=batch_size, shuffle=True)
 test_dl = torch.utils.data.DataLoader(test_ds, batch_size=batch_size, shuffle=True)
@@ -82,15 +82,15 @@ test_dl = torch.utils.data.DataLoader(test_ds, batch_size=batch_size, shuffle=Tr
 # train_dl = torch.utils.data.DataLoader(train_ds_mini, batch_size=batch_size, shuffle=True)
 # test_dl = torch.utils.data.DataLoader(test_ds_mini, batch_size=batch_size, shuffle=True)
 ```
-### 确定数据输入shape
+### Determining the Data Input Shape
 
 ![屏幕截图 2023-11-23 112453](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/70c4944c-4792-413f-ba1a-686fa1b9757b)
 
-## 确认GPU CPU使用情况
+## Checking GPU and CPU Usage
 
 ![屏幕截图 2023-11-23 112845](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d315a121-960c-4efa-a953-74b58c4c85d2)
 
-## 训练和评估循环
+## Training and Evaluation Loop
 
 ```ruby
 def train(dataloader, model, loss_fn, optimizer):
@@ -130,22 +130,22 @@ def test(dataloader, model, loss_fn):
     return test_loss, correct
 ```
 
-## 模型 resnet18
+## Model: ResNet18
 
-### 确定数据输入shape
+### Determine the Data Input Shape
 
 ![屏幕截图 2023-11-23 114614](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/b62aaea8-c49a-464e-b5fb-6accc6bc2d72)
 
 ![屏幕截图 2023-11-23 114704](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/af0910e4-caf0-404f-9006-d248b1f188ea)
 
-### 分配损失函数和优化器
+### Assigning Loss Function and Optimizer
 
 ```ruby
 loss_fn = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
 ```
 
-### 训练和评估
+### Training and Evaluation
 
 ![屏幕截图 2023-11-23 120124](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/7773236e-27f2-4e4d-a7f0-94d4673f5b80)
 
@@ -163,7 +163,7 @@ optimizer = torch.optim.SGD(base_model_resnet18.parameters(), lr=1e-3)
 
 ![屏幕截图 2023-11-23 115453](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb415886-4792-4024-adb3-026f598fc1a5)
 
-### 可视化训练过程
+### Visualizing the Training Process
 
 ```ruby
 # train_loss_array,train_acc_array,val_loss_array,val_acc_array
@@ -187,7 +187,7 @@ plt.show()
 ```
 ![屏幕截图 2023-11-23 115926](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/ab3ddb06-8d4b-4544-ab3d-a7aafecec5bc)
 
-### 模型验证集预测
+### Model Validation Set Prediction
 
 ```ruby
 
@@ -217,11 +217,11 @@ predict_pro_array[:5],predict_array[:5],label_array[:5]
 
 ![屏幕截图 2023-11-23 120627](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/04c948de-0ec1-4533-bc19-9b8983bd682c)
 
-#### 分类报告
+#### Classification Report
 
 ![屏幕截图 2023-11-23 120805](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/830818f5-02e2-4861-aa12-82883c42eed6)
 
-#### 混淆矩阵
+#### Confusion Matrix
 
 ![屏幕截图 2023-11-23 120851](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/d2dc6521-1b41-41bb-a811-151a17134b8a)
 
@@ -229,9 +229,9 @@ predict_pro_array[:5],predict_array[:5],label_array[:5]
 
 ![屏幕截图 2023-11-23 120925](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/bad4f2e2-ec4f-4e72-8161-ad5cf66c6f2d)
 
-## 在训练情绪模型的过程中，我也尝试了另外两组模型----cnn模型和模型 swin_transformer
+## In the process of training the emotion model, I also experimented with two other groups of models - a CNN model and the Swin Transformer model
 
-### cnn模型 
+### cnn model 
 
 ```ruby
 class CNN(nn.Module):
@@ -294,31 +294,31 @@ print("Done!")
 ![屏幕截图 2023-11-23 131202](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/1785ed74-26c3-4932-abfa-0d1ccd4de955)
 
 
-### 模型 swin_transformer
+### Model swin_transformer
 
-#### 构建基础模型
+#### Building the Base Model
 
 ![屏幕截图 2023-11-23 133916](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/3298c118-4826-40fe-9635-df4c5f580b71)
 
-#### 分配损失函数和优化器
+#### Assigning Loss Function and Optimizer
 
 ```ruby
 loss_fn = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(base_model_swin.parameters(), lr=1e-3)
 ```
-#### 训练和评估
+#### Training and Evaluation
 
 ![屏幕截图 2023-11-23 134216](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/2396acaf-72df-4f0a-aad7-f75d40decdb6)
 
 ![屏幕截图 2023-11-23 134252](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f07d8f17-047c-42b5-b2c2-d0b36ad5b72c)
 
-#### 可视化训练过程
+#### Visualizing the Training Process
 
 ![屏幕截图 2023-11-23 134348](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/dcfeb7e4-dc9f-46e8-bb2e-21019b277ff3)
 
 ![屏幕截图 2023-11-23 134422](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/f70a5f3c-2e7c-4333-96a5-45b3299dce01)
 
-#### 模型验证集预测
+#### Model Validation Set Prediction
 
 ![屏幕截图 2023-11-23 134816](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/cb55bb67-abe5-48d9-9e64-9a082e990d84)
 
@@ -330,9 +330,9 @@ optimizer = torch.optim.SGD(base_model_swin.parameters(), lr=1e-3)
 
 ![屏幕截图 2023-11-23 134959](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/efc681db-9a18-46e0-a596-fd36b7bf0446)
 
-# 情感识别算法设计和实现-与openCV结合
+# Design and Implementation of Emotion Recognition Algorithm - Integration with OpenCV
 
-## 导入python包
+## Import Python Packages
 
 ```ruby
 import torch
@@ -355,7 +355,7 @@ import numpy as np
 
 ```
 
-## 导入之前训练好的模型，导入标签，设置串口与Arduino通信
+## Import the Pre-trained Model, Load Labels, and Set Up Serial Communication with Arduino
 
 ```ruby
 ser = serial.Serial('/dev/cu.usbserial-144140', 115200,timeout=1)
@@ -393,7 +393,7 @@ model_reload.fc = nn.Linear(num_ftrs, num_classes)
 model_reload.load_state_dict(torch.load(save_path,map_location=torch.device('cpu')))
 ```
 
-## 情绪识别
+## Emotion Recognition
 
 ```ruby
 # 图像预处理
@@ -426,7 +426,7 @@ def predict(image):
     return label_name,str(pred_score)  # 返回预测结果和处理后的图像
 ```
 
-## 连接openCV并显示情绪标签
+## Connect OpenCV and Display Emotion Labels
 
 ```ruby
 
@@ -475,7 +475,7 @@ cv2.destroyAllWindows()
 
 ```
 
-## 结果展示
+## Results Presentation
 ![屏幕截图 2023-11-23 135740](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/21d0c018-e6a9-4f43-b385-be34888c3f24)
 
 ![屏幕截图 2023-11-23 135656](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/6c360f58-19e3-422c-941c-09ec7ad7438e)
