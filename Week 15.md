@@ -1,4 +1,6 @@
-# 邀请一小组用户测试可穿戴设备
+# Invite a Small Group of Users to Test the Wearable Device
+
+## In this study, I explored the diversity and complexity of emotional expression by combining experimental design with artistic practice. There were four participants in this artistic practice, all of them were female, with an average age of 24 years. They each wore interactive devices and participated in a 30-minute installation experience.
 
 ![屏幕截图 2023-11-23 153941](https://github.com/luoq03/Creative-Making-MSc-Advanced-Project-/assets/57748663/474472cf-804c-4af5-b4c1-ffb293835727)
 
